@@ -1,0 +1,6 @@
+raw/
+__temp__*
+.envrc
+.direnv/
+.vscode/
+.ipynb_checkpoints/
